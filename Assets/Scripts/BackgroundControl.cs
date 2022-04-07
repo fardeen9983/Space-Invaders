@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BackgroundControll : MonoBehaviour
+public class BackgroundControl : MonoBehaviour
 {
 
     // Update is called once per frame
