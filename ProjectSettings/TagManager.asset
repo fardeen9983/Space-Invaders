@@ -45,3 +45,6 @@ TagManager:
   - name: Background
     uniqueID: 1777118623
     locked: 0
+  - name: Arena
+    uniqueID: 4098966971
+    locked: 0
